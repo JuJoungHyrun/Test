@@ -15,5 +15,7 @@ public class StringTest {
 		String str4 = "abc";
 		System.out.println(str3 == str4);
 		System.out.println(str3.concat(str4));
+		
+		System.out.println("Test 코드");  
 	}
 }
