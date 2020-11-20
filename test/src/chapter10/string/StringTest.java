@@ -18,5 +18,6 @@ public class StringTest {
 		
 		System.out.println("Test 코드");
 		System.out.println("커밋 Test");
+		System.out.println("푸쉬 Test");
 	}
 }
