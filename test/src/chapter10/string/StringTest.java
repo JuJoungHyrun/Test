@@ -16,6 +16,7 @@ public class StringTest {
 		System.out.println(str3 == str4);
 		System.out.println(str3.concat(str4));
 		
-		System.out.println("Test 코드");  
+		System.out.println("Test 코드");
+		System.out.println("커밋 Test");
 	}
 }
